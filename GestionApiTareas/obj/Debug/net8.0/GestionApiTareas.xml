@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GestionApiTareas</name>
+    </assembly>
+    <members>
+        <member name="T:GestionApiTareas.Migrations.GEST1001">
+            <inheritdoc />
+        </member>
+        <member name="M:GestionApiTareas.Migrations.GEST1001.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:GestionApiTareas.Migrations.GEST1001.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:GestionApiTareas.Migrations.GEST1001.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:GestionApiTareas.Migrations.GEST1002">
+            <inheritdoc />
+        </member>
+        <member name="M:GestionApiTareas.Migrations.GEST1002.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:GestionApiTareas.Migrations.GEST1002.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:GestionApiTareas.Migrations.GEST1002.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:GestionApiTareas.Migrations.GEST1003">
+            <inheritdoc />
+        </member>
+        <member name="M:GestionApiTareas.Migrations.GEST1003.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:GestionApiTareas.Migrations.GEST1003.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:GestionApiTareas.Migrations.GEST1003.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:GestionApiTareas.Migrations.GEST1004">
+            <inheritdoc />
+        </member>
+        <member name="M:GestionApiTareas.Migrations.GEST1004.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:GestionApiTareas.Migrations.GEST1004.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:GestionApiTareas.Migrations.GEST1004.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:GestionApiTareas.Migrations.GEST1005">
+            <inheritdoc />
+        </member>
+        <member name="M:GestionApiTareas.Migrations.GEST1005.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:GestionApiTareas.Migrations.GEST1005.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:GestionApiTareas.Migrations.GEST1005.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

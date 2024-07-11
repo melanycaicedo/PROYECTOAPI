@@ -1,0 +1,8 @@
+C:\Users\Dev\source\repos\GestionApiTareas\GestionApiTareas\GestionApiTareas\obj\Debug\net8.0\GestionApiTareas.csproj.AssemblyReference.cache
+C:\Users\Dev\source\repos\GestionApiTareas\GestionApiTareas\GestionApiTareas\obj\Debug\net8.0\GestionApiTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\source\repos\GestionApiTareas\GestionApiTareas\GestionApiTareas\obj\Debug\net8.0\GestionApiTareas.AssemblyInfoInputs.cache
+C:\Users\Dev\source\repos\GestionApiTareas\GestionApiTareas\GestionApiTareas\obj\Debug\net8.0\GestionApiTareas.AssemblyInfo.cs
+C:\Users\Dev\source\repos\GestionApiTareas\GestionApiTareas\GestionApiTareas\obj\Debug\net8.0\GestionApiTareas.csproj.CoreCompileInputs.cache
+C:\Users\Dev\source\repos\GestionApiTareas\GestionApiTareas\GestionApiTareas\obj\Debug\net8.0\GestionApiTareas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dev\source\repos\GestionApiTareas\GestionApiTareas\GestionApiTareas\obj\Debug\net8.0\GestionApiTareas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dev\source\repos\GestionApiTareas\GestionApiTareas\GestionApiTareas\obj\Debug\net8.0\GestionApiTareas.sourcelink.json

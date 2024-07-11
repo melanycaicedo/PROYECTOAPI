@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dev\\source\\repos\\GestionApiTareas\\GestionApiTareas\\GestionApiTareas\\GestionApiTareas\\wwwroot\\LogWebApiAutores.txt",
+      "PackagePath": "staticwebassets\\LogWebApiAutores.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dev\\source\\repos\\GestionApiTareas\\GestionApiTareas\\GestionApiTareas\\GestionApiTareas\\wwwroot\\TemplateExcelReport\\CargaDatos.xlsx",
+      "PackagePath": "staticwebassets\\TemplateExcelReport\\CargaDatos.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\Dev\\source\\repos\\GestionApiTareas\\GestionApiTareas\\GestionApiTareas\\GestionApiTareas\\wwwroot\\TemplateExcelReport\\CargaDatos.xslx",
+      "PackagePath": "staticwebassets\\TemplateExcelReport\\CargaDatos.xslx"
+    },
+    {
+      "Id": "C:\\Users\\Dev\\source\\repos\\GestionApiTareas\\GestionApiTareas\\GestionApiTareas\\GestionApiTareas\\wwwroot\\TemplateExcelReport\\ReporteGeneralMontajeLlantasFinal.xlsx",
+      "PackagePath": "staticwebassets\\TemplateExcelReport\\ReporteGeneralMontajeLlantasFinal.xlsx"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GestionApiTareas.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GestionApiTareas.props",
+      "PackagePath": "build\\GestionApiTareas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GestionApiTareas.props",
+      "PackagePath": "buildMultiTargeting\\GestionApiTareas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GestionApiTareas.props",
+      "PackagePath": "buildTransitive\\GestionApiTareas.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
